@@ -1,0 +1,38 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration
+local.properties
+
+# IntelliJ/Android Studio
+*.iml
+.idea/
+.navigation/
+captures/
+
+# External native build
+.externalNativeBuild/
+.cxx/
+
+# Google Services (sensitive)
+google-services.json
+
+# OS files
+.DS_Store
+Thumbs.db
