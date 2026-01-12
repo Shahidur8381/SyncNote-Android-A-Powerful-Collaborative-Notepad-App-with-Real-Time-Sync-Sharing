@@ -1,3 +1,69 @@
 <resources>
     <string name="app_name">SyncNote</string>
+    
+    <!-- Security Questions -->
+    <string-array name="security_questions">
+        <item>What was the name of your first pet?</item>
+        <item>What is your mother\'s maiden name?</item>
+        <item>What city were you born in?</item>
+        <item>What was the name of your first school?</item>
+        <item>What is your favorite book?</item>
+    </string-array>
+    
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="security_question">Security Question</string>
+    <string name="security_answer">Security Answer</string>
+    <string name="new_password">New Password</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Login</string>
+    <string name="back_to_login">Back to Login</string>
+    
+    <!-- Home -->
+    <string name="my_notes">My Notes</string>
+    <string name="shared_with_me">Shared with Me</string>
+    <string name="search_notes">Search notes…</string>
+    <string name="no_notes">No notes yet. Tap + to create one!</string>
+    <string name="no_shared_notes">No notes have been shared with you yet.</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Notes -->
+    <string name="new_note">New Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="view_note">View Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="share_note">Share Note</string>
+    <string name="manage_access">Manage Access</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Write your note here…</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading…</string>
+    
+    <!-- Share Dialog -->
+    <string name="permission_label">Permission:</string>
+    <string name="permission_view">View Only - Can only view the note</string>
+    <string name="permission_edit">Edit - Can view and edit the note</string>
+    <string name="permission_description">View: User can only read the note.\nEdit: User can read and modify the note.</string>
+    
+    <!-- Errors -->
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_invalid_email">Invalid email format</string>
+    <string name="error_username_taken">Username already taken</string>
+    <string name="error_login_failed">Invalid username or password</string>
+    
+    <!-- Success -->
+    <string name="success_registered">Registration successful!</string>
+    <string name="success_password_reset">Password reset successful!</string>
+    <string name="success_note_saved">Note saved successfully!</string>
+    <string name="success_note_deleted">Note deleted!</string>
+    <string name="success_note_shared">Note shared successfully!</string>
 </resources>

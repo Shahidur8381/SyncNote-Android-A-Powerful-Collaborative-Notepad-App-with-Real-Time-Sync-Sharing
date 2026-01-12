@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    
-    <!-- Primary Colors - Lighter Blue/Indigo -->
+    <!-- Primary Colors - Lighter versions -->
     <color name="primary">#7986CB</color>
     <color name="primary_dark">#5C6BC0</color>
     <color name="primary_variant">#9FA8DA</color>
@@ -11,20 +8,20 @@
     <color name="secondary">#4DB6AC</color>
     <color name="accent">#FF8A65</color>
     
-    <!-- Background Colors -->
+    <!-- Background Colors - White -->
     <color name="background">#FFFFFF</color>
     <color name="card_background">#FFFFFF</color>
     <color name="surface">#FFFFFF</color>
     <color name="toolbar_background">#FFFFFF</color>
     
-    <!-- Text Colors - Lighter, softer grays -->
+    <!-- Text Colors - Softer grays -->
     <color name="text_primary">#424242</color>
     <color name="text_secondary">#757575</color>
     <color name="text_hint">#BDBDBD</color>
     <color name="text_on_primary">#FFFFFF</color>
     <color name="text_on_dark">#FFFFFF</color>
     
-    <!-- Status Colors - Lighter versions -->
+    <!-- Status Colors - Lighter -->
     <color name="error">#EF5350</color>
     <color name="success">#66BB6A</color>
     <color name="warning">#FFA726</color>
@@ -33,11 +30,11 @@
     <!-- Other Colors -->
     <color name="divider">#EEEEEE</color>
     <color name="ripple">#1F7986CB</color>
-    <color name="shadow">#14000000</color>
+    <color name="shadow">#00000000</color>
     <color name="input_background">#FAFAFA</color>
     <color name="icon_tint">#7986CB</color>
     
-    <!-- Note Colors - Lighter pastels -->
+    <!-- Note Colors - Light pastels -->
     <color name="note_default">#FFFFFF</color>
     <color name="note_red">#FFEBEE</color>
     <color name="note_orange">#FFF3E0</color>

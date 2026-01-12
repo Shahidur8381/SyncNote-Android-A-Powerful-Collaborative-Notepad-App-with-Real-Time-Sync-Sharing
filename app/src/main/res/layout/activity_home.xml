@@ -8,15 +8,15 @@
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/primary"
-        app:elevation="0dp">
+        android:background="@color/white"
+        app:elevation="2dp">
 
         <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             app:title="My Notes"
-            app:titleTextColor="@android:color/white"
+            app:titleTextColor="@color/text_primary"
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
     </com.google.android.material.appbar.AppBarLayout>
